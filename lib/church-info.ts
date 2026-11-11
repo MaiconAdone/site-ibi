@@ -9,7 +9,7 @@ export type { SocialLink };
 // primaryService) computed from the raw values, plus the nav structure
 // (which is not church-specific data — it's site IA).
 
-const fullAddress = `${churchData.address.street}, ${churchData.address.city} - ${churchData.address.state}, ${churchData.address.zip}`;
+const fullAddress = `${churchData.address.street}, ${churchData.address.city} - ${churchData.address.state}${churchData.address.zip ? `, ${churchData.address.zip}` : ""}`;
 
 export type Service = {
   name: string;

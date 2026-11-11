@@ -41,19 +41,19 @@ export const metadata: Metadata = {
 
 const timeline = [
   {
-    time: "17h45",
+    time: "18h45",
     title: "Portas abertas",
     body: "Chegue com calma e vá até a entrada principal. Alguém da recepção estará na porta para receber você e indicar o café e o templo.",
     icon: Coffee,
   },
   {
-    time: "18h00",
+    time: "19h00",
     title: "Louvor",
     body: "Cantamos hinos e canções de adoração. Fique de pé, sentado, cante ou apenas ouça — não existe jeito errado de estar aqui.",
     icon: Music,
   },
   {
-    time: "~18h30",
+    time: "~19h30",
     title: "Pregação da Palavra",
     body: "O pastor expõe uma passagem das Escrituras por cerca de 40 minutos, estudando os livros da Bíblia capítulo por capítulo.",
     icon: BookOpen,
@@ -282,8 +282,8 @@ export default function VisitPage() {
                     >
                       {churchInfo.address.street}
                       <br />
-                      {churchInfo.address.city} - {churchInfo.address.state}, CEP{" "}
-                      {churchInfo.address.zip}
+                      {churchInfo.address.city} - {churchInfo.address.state}
+                      {churchInfo.address.zip ? `, CEP ${churchInfo.address.zip}` : ""}
                     </a>
                   </dd>
                 </div>

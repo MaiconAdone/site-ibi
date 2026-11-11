@@ -54,8 +54,8 @@ export default function ContactPage() {
                   >
                     {churchInfo.address.street}
                     <br />
-                    {churchInfo.address.city} - {churchInfo.address.state}, CEP{" "}
-                    {churchInfo.address.zip}
+                    {churchInfo.address.city} - {churchInfo.address.state}
+                    {churchInfo.address.zip ? `, CEP ${churchInfo.address.zip}` : ""}
                   </a>
                 </InfoRow>
                 <InfoRow icon={Phone} label="Telefone">

@@ -8,31 +8,31 @@
     "email": "contato@ibimaua.com.br",
     "officeHours": "Seg a Sex, 9h às 17h",
     "address": {
-      "street": "Rua Exemplo, 123 - Centro",
+      "street": "Rua Gerôcio Gregório Silva, 105 - Jardim Sônia Maria",
       "city": "Mauá",
       "state": "SP",
-      "zip": "09300-000"
+      "zip": ""
     },
     "services": [
       {
-        "name": "Escola Bíblica Dominical",
+        "name": "EBBD — Escola Bíblica Batista Dominical",
         "day": "Domingo",
-        "time": "9h00",
-        "note": "Classes para todas as idades",
+        "time": "9h30",
+        "note": "Estudo da Palavra com classes para todas as idades",
         "primary": false
       },
       {
-        "name": "Culto de Celebração",
+        "name": "Culto de Louvor e Adoração",
         "day": "Domingo",
-        "time": "18h00",
+        "time": "19h00",
         "note": "Chegue um pouco antes para um café e boas conversas",
         "primary": true
       },
       {
         "name": "Culto de Oração",
-        "day": "Quarta-feira",
+        "day": "Quinta-feira",
         "time": "19h30",
-        "note": "Oração e estudo da Palavra",
+        "note": "Oração e comunhão",
         "primary": false
       }
     ],
@@ -68,5 +68,21 @@
   },
   "adminAuth": {
     "provider": "google"
+  },
+  "programacao": {
+    "extras": [
+      {
+        "name": "Estudo Bíblico",
+        "when": "Com agendamento",
+        "note": "Agende um estudo bíblico com o Pastor Tomé Lopes.",
+        "cta": "Agendar pelo WhatsApp"
+      },
+      {
+        "name": "Encontro das Mulheres",
+        "when": "Programação especial",
+        "note": "Cada encontro tem uma programação diferente. Acompanhe a agenda e os avisos.",
+        "cta": "Saber a próxima data"
+      }
+    ]
   }
 }

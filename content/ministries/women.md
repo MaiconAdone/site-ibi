@@ -6,10 +6,10 @@ description: "Estudos bíblicos, oração e encontros para mulheres de todas as 
 image: "/images/placeholders/ministry-women.svg"
 whoFor: "Mulheres de todas as idades."
 meetings:
-  - day: "2º sábado do mês"
-    time: "15h00"
-    location: "Salão social"
-    note: "Encontro mensal com estudo e lanche."
+  - day: "Programação especial"
+    time: "—"
+    location: "Templo"
+    note: "Cada encontro tem uma programação diferente."
 whatToExpect:
   - "Estudo bíblico e momentos de oração."
   - "Um espaço para compartilhar a vida."

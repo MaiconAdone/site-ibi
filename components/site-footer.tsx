@@ -80,8 +80,8 @@ export function SiteFooter() {
               >
                 {churchInfo.address.street}
                 <br />
-                {churchInfo.address.city} - {churchInfo.address.state}, CEP{" "}
-                {churchInfo.address.zip}
+                {churchInfo.address.city} - {churchInfo.address.state}
+                {churchInfo.address.zip ? `, CEP ${churchInfo.address.zip}` : ""}
               </a>
             </li>
             <li className="flex items-center gap-3">

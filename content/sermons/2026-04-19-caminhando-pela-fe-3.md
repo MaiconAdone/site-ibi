@@ -1,7 +1,7 @@
 ---
 title: "Caminhando pela fé — Parte 3: Fé que obedece"
 series: "Caminhando pela fé"
-speaker: "Pastor (Nome)"
+speaker: "Pastor Tomé Lopes"
 date: 2026-04-19
 scripture: "Gênesis 12:1-9"
 book: "Gênesis"

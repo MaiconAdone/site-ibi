@@ -1,7 +1,7 @@
 ---
 title: "Caminhando pela fé — Parte 2: O Deus que vê"
 series: "Caminhando pela fé"
-speaker: "Pastor (Nome)"
+speaker: "Pastor Tomé Lopes"
 date: 2026-04-12
 scripture: "Gênesis 16"
 book: "Gênesis"

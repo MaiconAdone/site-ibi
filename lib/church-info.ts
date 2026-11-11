@@ -46,7 +46,7 @@ export const churchInfo = {
     mapsUrl: `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(fullAddress)}`,
   },
   phone: churchData.phone,
-  phoneHref: `tel:+1${churchData.phone.replace(/\D/g, "")}`,
+  phoneHref: `tel:+55${churchData.phone.replace(/\D/g, "")}`,
   email: churchData.email,
   emailHref: `mailto:${churchData.email}`,
   logo: (churchData as { logo?: string }).logo ?? "",

@@ -1,5 +1,5 @@
 ---
-name: "Pastor (Nome)"
+name: "Tomé Lopes"
 role: "Pastor titular"
 email: ""
 photo: "/images/placeholders/staff/alex-morgan.svg"

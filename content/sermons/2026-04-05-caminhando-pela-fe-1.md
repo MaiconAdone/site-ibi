@@ -1,7 +1,7 @@
 ---
 title: "Caminhando pela fé — Parte 1: Onde a fé começa"
 series: "Caminhando pela fé"
-speaker: "Pastor (Nome)"
+speaker: "Pastor Tomé Lopes"
 date: 2026-04-05
 scripture: "Hebreus 11:1-6"
 book: "Hebreus"

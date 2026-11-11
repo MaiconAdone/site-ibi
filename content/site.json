@@ -1,0 +1,72 @@
+{
+  "church": {
+    "name": "Igreja Batista Independente de Mauá",
+    "shortName": "IBI Mauá",
+    "tagline": "Uma igreja acolhedora em Mauá",
+    "logo": "/images/brand/logo-ibi.png",
+    "phone": "(11) 00000-0000",
+    "email": "contato@ibimaua.com.br",
+    "officeHours": "Seg a Sex, 9h às 17h",
+    "address": {
+      "street": "Rua Exemplo, 123 - Centro",
+      "city": "Mauá",
+      "state": "SP",
+      "zip": "09300-000"
+    },
+    "services": [
+      {
+        "name": "Escola Bíblica Dominical",
+        "day": "Domingo",
+        "time": "9h00",
+        "note": "Classes para todas as idades",
+        "primary": false
+      },
+      {
+        "name": "Culto de Celebração",
+        "day": "Domingo",
+        "time": "18h00",
+        "note": "Chegue um pouco antes para um café e boas conversas",
+        "primary": true
+      },
+      {
+        "name": "Culto de Oração",
+        "day": "Quarta-feira",
+        "time": "19h30",
+        "note": "Oração e estudo da Palavra",
+        "primary": false
+      }
+    ],
+    "whatsapp": "5511000000000",
+    "social": [
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://youtube.com/"
+      },
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/"
+      }
+    ]
+  },
+  "home": {
+    "hero": {
+      "headline": "Uma comunidade acolhedora onde você tem lugar."
+    }
+  },
+  "about": {
+    "hero": {
+      "headline": "Seguindo Jesus juntos, de portas abertas para todos."
+    }
+  },
+  "features": {
+    "devotionals": false,
+    "digest": false
+  },
+  "adminAuth": {
+    "provider": "google"
+  }
+}

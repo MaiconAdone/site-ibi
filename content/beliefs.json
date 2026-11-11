@@ -1,0 +1,37 @@
+{
+  "_note": "Declarações de exemplo. Substitua pela declaração de fé da igreja.",
+  "beliefs": [
+    {
+      "title": "A Bíblia",
+      "statement": "Cremos que a Bíblia, os sessenta e seis livros do Antigo e do Novo Testamento, é a Palavra de Deus inspirada e com autoridade, suficiente para toda questão de fé e prática."
+    },
+    {
+      "title": "Deus",
+      "statement": "Cremos em um só Deus, que existe eternamente em três pessoas — Pai, Filho e Espírito Santo — iguais em poder e glória."
+    },
+    {
+      "title": "Jesus Cristo",
+      "statement": "Cremos que Jesus Cristo é plenamente Deus e plenamente homem, concebido pelo Espírito Santo e nascido da virgem Maria. Viveu sem pecado, morreu na cruz por nossos pecados, ressuscitou corporalmente, subiu ao Pai e um dia voltará."
+    },
+    {
+      "title": "O Espírito Santo",
+      "statement": "Cremos que o Espírito Santo habita em todo crente desde o momento da salvação, capacitando-nos a viver para Deus, crescer à semelhança de Cristo e servir à igreja e ao mundo."
+    },
+    {
+      "title": "O ser humano",
+      "statement": "Cremos que todo ser humano foi criado à imagem de Deus e por isso tem dignidade — e que todo ser humano também está marcado pelo pecado e é incapaz de salvar a si mesmo sem a graça."
+    },
+    {
+      "title": "A salvação",
+      "statement": "Cremos que a salvação é somente pela graça, somente por meio da fé, somente em Cristo. É dom gratuito de Deus, e não fruto de obras, religiosidade ou mérito próprio."
+    },
+    {
+      "title": "A Igreja",
+      "statement": "Cremos que a Igreja é o corpo de Cristo — o povo de Deus reunido localmente para adorar, ouvir o ensino da Palavra, praticar o batismo e a ceia do Senhor e servir uns aos outros e ao próximo."
+    },
+    {
+      "title": "A volta de Cristo",
+      "statement": "Cremos que Jesus Cristo voltará pessoal e visivelmente para reunir o seu povo, julgar os vivos e os mortos e fazer novas todas as coisas."
+    }
+  ]
+}

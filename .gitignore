@@ -1,0 +1,27 @@
+node_modules/
+.next/
+out/
+.env*.local
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+.env
+dist
+.cache
+
+# Welcome marker (written by scripts/welcome.js once per local clone so the
+# post-install banner only shows the first time). Don't commit — each fresh
+# clone of a downstream church-instance should also see the welcome once.
+.template-welcomed
+
+# TinaCMS generated files — created by `npm run cms` (dev) or `npm run build`.
+# Not committed; regenerated automatically at build/dev time.
+.tina/__generated__/
+public/admin/
+
+# Local Claude Code settings — per-machine, not committed.
+.claude/
+
+# Vercel CLI link directory.
+.vercel/
+site-ibi.zip

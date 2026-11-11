@@ -1,0 +1,86 @@
+{
+  "items": [
+    {
+      "label": "Visite",
+      "href": "/visit"
+    },
+    {
+      "label": "Avisos",
+      "href": "/announcements"
+    },
+    {
+      "label": "Assista",
+      "href": "/watch"
+    },
+    {
+      "label": "Sobre",
+      "href": "/about",
+      "children": [
+        {
+          "label": "Nossa história",
+          "href": "/about"
+        },
+        {
+          "label": "No que cremos",
+          "href": "/beliefs"
+        },
+        {
+          "label": "Liderança",
+          "href": "/about#staff"
+        }
+      ]
+    },
+    {
+      "label": "Conecte-se",
+      "href": "/connect",
+      "children": [
+        {
+          "label": "Pedidos de oração",
+          "href": "/connect/pray"
+        },
+        {
+          "label": "Contato",
+          "href": "/connect/contact"
+        }
+      ]
+    },
+    {
+      "label": "Ministérios",
+      "href": "/ministries",
+      "children": [
+        {
+          "label": "Infantil",
+          "href": "/ministries/kids"
+        },
+        {
+          "label": "Adolescentes",
+          "href": "/ministries/youth"
+        },
+        {
+          "label": "Jovens",
+          "href": "/ministries/young-adults"
+        },
+        {
+          "label": "Mulheres",
+          "href": "/ministries/women"
+        },
+        {
+          "label": "Homens",
+          "href": "/ministries/men"
+        },
+        {
+          "label": "Casais",
+          "href": "/ministries/couples"
+        },
+        {
+          "label": "Missões",
+          "href": "/ministries/missions"
+        }
+      ]
+    },
+    {
+      "label": "Agenda",
+      "href": "/calendar"
+    }
+  ]
+}

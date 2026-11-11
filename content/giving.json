@@ -1,0 +1,54 @@
+{
+  "provider": "offline_only",
+  "displayMode": "newTab",
+  "callToAction": "Contribua",
+  "supportingMessage": "Sua generosidade sustenta o trabalho da igreja no dia a dia — os ministérios, as missões e o cuidado com quem precisa aqui em Mauá.",
+  "planningCenter": {
+    "subdomain": ""
+  },
+  "tithely": {
+    "organizationId": "",
+    "formUrl": ""
+  },
+  "pushpay": {
+    "merchantHandle": ""
+  },
+  "subsplash": {
+    "embedCode": ""
+  },
+  "stripe": {
+    "paymentLinkUrl": ""
+  },
+  "customUrl": {
+    "url": "",
+    "linkText": "Contribuir"
+  },
+  "offlineGiving": {
+    "enabled": true,
+    "mailingAddress": "PIX (CNPJ): 00.000.000/0001-00\nTitular: Igreja Batista Independente de Mauá\n\nBanco: 000 · Agência: 0000 · Conta: 00000-0",
+    "inPersonInstructions": "Durante os cultos há gazofilácios na entrada do templo. Contribua quando e como desejar.",
+    "textToGive": {
+      "enabled": false,
+      "number": "",
+      "keyword": "GIVE"
+    }
+  },
+  "faq": [
+    {
+      "question": "Como posso contribuir?",
+      "answer": "Pelo PIX da igreja, por transferência bancária ou presencialmente nos gazofilácios durante os cultos."
+    },
+    {
+      "question": "Para onde vai a minha contribuição?",
+      "answer": "[Substitua por um resumo de como a igreja aplica os recursos — por exemplo: manutenção do templo, ministérios, missões e ação social.]"
+    },
+    {
+      "question": "Preciso ser membro para contribuir?",
+      "answer": "De forma alguma. Você pode contribuir sendo membro há anos ou visitando pela primeira vez. Contribuir é uma resposta à graça, não uma condição para pertencer."
+    },
+    {
+      "question": "Recebo algum comprovante?",
+      "answer": "Sim. Se precisar de um comprovante da sua contribuição, fale com a secretaria da igreja."
+    }
+  ]
+}

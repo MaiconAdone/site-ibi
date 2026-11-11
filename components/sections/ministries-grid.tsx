@@ -31,7 +31,7 @@ export function MinistriesGrid() {
               key={m.slug}
               href={`/ministries/${m.slug}`}
               className={
-                "group relative flex aspect-[4/5] flex-col overflow-hidden rounded-lg " +
+                "group relative flex aspect-[4/3] sm:aspect-[4/5] flex-col overflow-hidden rounded-lg " +
                 (i === 0 ? "lg:col-span-2 lg:aspect-[2/1.25]" : "")
               }
             >

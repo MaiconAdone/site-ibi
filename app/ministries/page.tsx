@@ -35,7 +35,7 @@ export default function MinistriesIndex() {
             <li key={m.slug}>
               <Link
                 href={`/ministries/${m.slug}`}
-                className="group relative flex aspect-[4/5] flex-col overflow-hidden rounded-lg"
+                className="group relative flex aspect-[4/3] flex-col overflow-hidden rounded-lg sm:aspect-[4/5]"
               >
                 <Image
                   src={m.image}

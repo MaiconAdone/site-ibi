@@ -57,7 +57,7 @@ export function SiteHeader() {
                 className="h-10 w-auto shrink-0 md:h-12"
                 priority
               />
-              <span className="hidden min-w-0 whitespace-nowrap font-serif text-base leading-tight text-primary md:inline lg:hidden xl:inline xl:text-lg">
+              <span className="min-w-0 whitespace-nowrap font-serif text-base leading-tight text-primary lg:hidden xl:inline xl:text-lg">
                 {churchInfo.shortName || churchInfo.name}
               </span>
             </>

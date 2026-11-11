@@ -63,8 +63,8 @@ export function Hero() {
               )}
             </span>
           </div>
-          <div className="flex items-center gap-2.5">
-            <MapPin className="h-5 w-5 text-accent" />
+          <div className="flex items-start gap-2.5">
+            <MapPin className="mt-1 h-5 w-5 shrink-0 text-accent" />
             <span className="text-lg">{churchInfo.address.full}</span>
           </div>
         </div>

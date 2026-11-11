@@ -51,7 +51,7 @@ export function NewHere() {
             href={card.href}
             className="group flex flex-col overflow-hidden rounded-lg border border-border bg-card transition hover:-translate-y-1 hover:shadow-lg"
           >
-            <div className="relative aspect-[4/3] overflow-hidden">
+            <div className="relative aspect-video overflow-hidden sm:aspect-[4/3]">
               <Image
                 src={card.image}
                 alt=""

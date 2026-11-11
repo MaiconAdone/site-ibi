@@ -4,6 +4,21 @@ import { CalendarDays, Clock, BookOpen, Heart, MapPin } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { churchInfo } from "@/lib/church-info";
 import siteData from "@/content/site.json";
+import { oneOffEvents } from "@/lib/calendar-data";
+import { EventFlyers, type Flyer } from "@/components/sections/event-flyers";
+
+const BUILD_ISO = new Date().toISOString().slice(0, 10);
+const flyers: Flyer[] = oneOffEvents
+  .filter((e) => e.image)
+  .map((e) => ({
+    id: e.id,
+    title: e.title,
+    date: e.date,
+    endDate: e.endDate,
+    time: e.time,
+    description: e.description,
+    image: e.image as string,
+  }));
 
 export const metadata: Metadata = {
   title: "Programação",
@@ -42,6 +57,8 @@ export default function ProgramacaoPage() {
           </p>
         </div>
       </section>
+
+      <EventFlyers flyers={flyers} buildIso={BUILD_ISO} />
 
       <section className="container py-16 md:py-20">
         <h2 className="font-serif text-3xl">Cultos semanais</h2>

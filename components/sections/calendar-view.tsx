@@ -226,9 +226,9 @@ export function CalendarView({ initialDate }: { initialDate: string }) {
       </div>
 
       <div className="mt-4 flex flex-wrap items-center gap-3 text-xs text-muted-foreground">
-        <Legend className="bg-accent/15 text-accent">Special event</Legend>
-        <Legend className="bg-primary/10 text-primary">RSVP needed</Legend>
-        <Legend className="bg-muted text-foreground/80">Regular gathering</Legend>
+        <Legend className="bg-accent/15 text-accent">Evento especial</Legend>
+        <Legend className="bg-primary/10 text-primary">Requer confirmação</Legend>
+        <Legend className="bg-muted text-foreground/80">Culto regular</Legend>
       </div>
 
       <EventModal event={selected} onClose={() => setSelected(null)} />

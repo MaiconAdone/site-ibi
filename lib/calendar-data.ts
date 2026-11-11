@@ -1,5 +1,5 @@
 import { churchInfo } from "@/lib/church-info";
-import { recurringEvents } from "@/content/events";
+import { recurringEvents, oneOffEventsData } from "@/content/events";
 
 export type RecurrenceRule =
   | { kind: "weekly"; dayOfWeek: number }
@@ -28,6 +28,8 @@ export type OneOffEvent = {
   description: string;
   needsRsvp?: boolean;
   isFeatured?: boolean;
+  image?: string;
+  replacesService?: boolean;
 };
 
 export type EventInstance = {
@@ -47,7 +49,7 @@ export type EventInstance = {
 // the recurring-events model in /content/events.json. Empty by default — the
 // featured "Coming up" UI on /calendar simply doesn't render until populated.
 // Migrate this to /content/ once adopting churches start using it heavily.
-export const oneOffEvents: OneOffEvent[] = [];
+export const oneOffEvents: OneOffEvent[] = oneOffEventsData;
 
 export { recurringEvents };
 
@@ -182,7 +184,19 @@ export function eventsForMonth(year: number, month: number): EventInstance[] {
     }
   }
 
-  return out.sort((a, b) => {
+  // Evento especial que substitui o culto do dia (ex.: Ceia do Senhor).
+  const replaced = new Set(
+    oneOffEvents
+      .filter((o) => o.replacesService)
+      .map((o) => `${o.date}|${parse12hMinutes(o.time)}`)
+  );
+  const result = out.filter(
+    (e) =>
+      !(e.isRecurring && e.id.startsWith("service-") &&
+        replaced.has(`${e.date}|${parse12hMinutes(e.time)}`))
+  );
+
+  return result.sort((a, b) => {
     if (a.date !== b.date) return a.date < b.date ? -1 : 1;
     return parse12hMinutes(a.time) - parse12hMinutes(b.time);
   });

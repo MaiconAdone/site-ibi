@@ -1,3 +1,46 @@
 {
-  "events": []
+  "events": [],
+  "oneOff": [
+    {
+      "id": "beleza-de-sermos-unicas",
+      "title": "Beleza de Sermos Únicas",
+      "date": "2026-11-21",
+      "time": "19h00",
+      "durationMinutes": 120,
+      "location": "IBI Mauá",
+      "description": "Encontro das Mulheres. “Eu te louvo porque me fizeste de modo especial e admirável.” (Salmos 139:14)",
+      "image": "/images/eventos/beleza-de-sermos-unicas-2026-11-21.jpg"
+    },
+    {
+      "id": "jantar-confraternizacao",
+      "title": "Jantar de Confraternização",
+      "date": "2026-12-12",
+      "time": "19h00",
+      "durationMinutes": 180,
+      "location": "IBI Mauá",
+      "description": "Vamos compartilhar esse momento juntos! “Porque onde estiverem dois ou três reunidos em meu nome, eu estou ali no meio deles.” (Mateus 18:20)",
+      "image": "/images/eventos/jantar-confraternizacao-2026-12-12.jpg"
+    },
+    {
+      "id": "mais-que-um-presente",
+      "title": "Mais que um Presente",
+      "date": "2026-12-19",
+      "time": "15h00",
+      "durationMinutes": 120,
+      "location": "IBI Mauá",
+      "description": "Das 15h às 17h. Um grande evangelismo na nossa comunidade, com gincana, sorteios, lanches e lições bíblicas para adultos e crianças. Traga sua família, convide seus vizinhos e amigos!",
+      "image": "/images/eventos/mais-que-um-presente-2026-12-19.jpg"
+    },
+    {
+      "id": "ceia-do-senhor",
+      "title": "Ceia do Senhor",
+      "date": "2026-12-20",
+      "time": "19h00",
+      "durationMinutes": 120,
+      "location": "IBI Mauá",
+      "description": "“Fazei isto em memória de mim.” (Lucas 22:19)",
+      "image": "/images/eventos/ceia-do-senhor-2026-12-20.jpg",
+      "replacesService": true
+    }
+  ]
 }

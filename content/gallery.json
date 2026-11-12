@@ -801,6 +801,133 @@
       ]
     },
     {
+      "slug": "encontro-de-casais",
+      "title": "Encontro de Casais",
+      "description": "Noite especial para os casais da igreja, com jantar e o tema “Construindo juntos nas decisões”.",
+      "photos": [
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-01.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-01.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-02.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-02.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-03.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-03.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-04.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-04.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-05.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-05.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-06.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-06.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-07.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-07.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-08.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-08.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-09.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-09.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-10.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-10.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-11.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-11.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-12.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-12.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-13.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-13.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-14.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-14.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-15.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-15.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-16.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-16.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-17.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-17.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-18.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-18.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-19.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-19.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "/images/galeria/encontro-de-casais/encontro-de-casais-20.jpg",
+          "thumb": "/images/galeria/encontro-de-casais/thumb-encontro-de-casais-20.jpg",
+          "width": 960,
+          "height": 1280
+        }
+      ]
+    },
+    {
       "slug": "encontro-de-criancas",
       "title": "Encontro de Crianças",
       "description": "",

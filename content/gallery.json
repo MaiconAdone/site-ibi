@@ -94,8 +94,111 @@
     {
       "slug": "acao-de-gracas",
       "title": "Ação de Graças",
-      "description": "",
-      "photos": []
+      "description": "Noite de gratidão a Deus com jantar, louvor e comunhão.",
+      "photos": [
+        {
+          "src": "/images/galeria/acao-de-gracas/acao-de-gracas-01.jpg",
+          "thumb": "/images/galeria/acao-de-gracas/thumb-acao-de-gracas-01.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/acao-de-gracas/acao-de-gracas-02.jpg",
+          "thumb": "/images/galeria/acao-de-gracas/thumb-acao-de-gracas-02.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/acao-de-gracas/acao-de-gracas-03.jpg",
+          "thumb": "/images/galeria/acao-de-gracas/thumb-acao-de-gracas-03.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/acao-de-gracas/acao-de-gracas-04.jpg",
+          "thumb": "/images/galeria/acao-de-gracas/thumb-acao-de-gracas-04.jpg",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "src": "/images/galeria/acao-de-gracas/acao-de-gracas-05.jpg",
+          "thumb": "/images/galeria/acao-de-gracas/thumb-acao-de-gracas-05.jpg",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "src": "/images/galeria/acao-de-gracas/acao-de-gracas-06.jpg",
+          "thumb": "/images/galeria/acao-de-gracas/thumb-acao-de-gracas-06.jpg",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "src": "/images/galeria/acao-de-gracas/acao-de-gracas-07.jpg",
+          "thumb": "/images/galeria/acao-de-gracas/thumb-acao-de-gracas-07.jpg",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "src": "/images/galeria/acao-de-gracas/acao-de-gracas-08.jpg",
+          "thumb": "/images/galeria/acao-de-gracas/thumb-acao-de-gracas-08.jpg",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "src": "/images/galeria/acao-de-gracas/acao-de-gracas-09.jpg",
+          "thumb": "/images/galeria/acao-de-gracas/thumb-acao-de-gracas-09.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/acao-de-gracas/acao-de-gracas-10.jpg",
+          "thumb": "/images/galeria/acao-de-gracas/thumb-acao-de-gracas-10.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/acao-de-gracas/acao-de-gracas-11.jpg",
+          "thumb": "/images/galeria/acao-de-gracas/thumb-acao-de-gracas-11.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/acao-de-gracas/acao-de-gracas-12.jpg",
+          "thumb": "/images/galeria/acao-de-gracas/thumb-acao-de-gracas-12.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/acao-de-gracas/acao-de-gracas-13.jpg",
+          "thumb": "/images/galeria/acao-de-gracas/thumb-acao-de-gracas-13.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/acao-de-gracas/acao-de-gracas-14.jpg",
+          "thumb": "/images/galeria/acao-de-gracas/thumb-acao-de-gracas-14.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/acao-de-gracas/acao-de-gracas-15.jpg",
+          "thumb": "/images/galeria/acao-de-gracas/thumb-acao-de-gracas-15.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/acao-de-gracas/acao-de-gracas-16.jpg",
+          "thumb": "/images/galeria/acao-de-gracas/thumb-acao-de-gracas-16.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/acao-de-gracas/acao-de-gracas-17.jpg",
+          "thumb": "/images/galeria/acao-de-gracas/thumb-acao-de-gracas-17.jpg",
+          "width": 1200,
+          "height": 1600
+        }
+      ]
     },
     {
       "slug": "niver-sr-joao",

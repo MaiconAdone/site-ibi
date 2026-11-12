@@ -42,6 +42,8 @@ function loadAll(): Sermon[] {
         thumbnail: String(data.thumbnail ?? "") || DEFAULT_THUMBNAIL,
         audioUrl: String(data.audioUrl ?? "") || "#",
         notes: typeof data.notes === "string" ? data.notes.trim() : "",
+        // Segundo do vídeo em que a pregação começa (opcional).
+        videoStart: Number(data.videoStart) || 0,
       };
     })
     .sort((a, b) => (a.date < b.date ? 1 : -1));

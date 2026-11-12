@@ -9,7 +9,10 @@ import { churchInfo } from "@/lib/church-info";
 type Params = { slug: string };
 
 export function generateStaticParams() {
-  return getAllSeries().map((s) => ({ slug: s.slug }));
+  const all = getAllSeries().map((s) => ({ slug: s.slug }));
+  // O export estático exige ao menos uma rota; sem séries, gera uma página
+  // vazia que cai no 404.
+  return all.length > 0 ? all : [{ slug: "nenhuma" }];
 }
 
 export async function generateMetadata({

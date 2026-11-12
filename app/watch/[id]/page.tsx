@@ -96,7 +96,7 @@ export default async function SermonPage({
         <div className="mt-10 aspect-video overflow-hidden rounded-xl border border-border bg-card">
           {sermon.youtubeId ? (
             <iframe
-              src={`https://www.youtube.com/embed/${sermon.youtubeId}`}
+              src={`https://www.youtube.com/embed/${sermon.youtubeId}${sermon.videoStart ? `?start=${sermon.videoStart}` : ""}`}
               title={sermon.title}
               className="h-full w-full"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

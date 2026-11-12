@@ -708,8 +708,113 @@
     {
       "slug": "encontro-de-mulheres",
       "title": "Encontro de Mulheres",
-      "description": "",
-      "photos": []
+      "description": "Encontros das Mulheres IBI: comunhão, Palavra e a oficina “Arte com elas”.",
+      "photos": [
+        {
+          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-01.jpg",
+          "thumb": "/images/galeria/encontro-de-mulheres/thumb-encontro-de-mulheres-01.jpg",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-02.jpg",
+          "thumb": "/images/galeria/encontro-de-mulheres/thumb-encontro-de-mulheres-02.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-03.jpg",
+          "thumb": "/images/galeria/encontro-de-mulheres/thumb-encontro-de-mulheres-03.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-04.jpg",
+          "thumb": "/images/galeria/encontro-de-mulheres/thumb-encontro-de-mulheres-04.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-05.jpg",
+          "thumb": "/images/galeria/encontro-de-mulheres/thumb-encontro-de-mulheres-05.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-06.jpg",
+          "thumb": "/images/galeria/encontro-de-mulheres/thumb-encontro-de-mulheres-06.jpg",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-07.jpg",
+          "thumb": "/images/galeria/encontro-de-mulheres/thumb-encontro-de-mulheres-07.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-08.jpg",
+          "thumb": "/images/galeria/encontro-de-mulheres/thumb-encontro-de-mulheres-08.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-09.jpg",
+          "thumb": "/images/galeria/encontro-de-mulheres/thumb-encontro-de-mulheres-09.jpg",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-10.jpg",
+          "thumb": "/images/galeria/encontro-de-mulheres/thumb-encontro-de-mulheres-10.jpg",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-11.jpg",
+          "thumb": "/images/galeria/encontro-de-mulheres/thumb-encontro-de-mulheres-11.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-12.jpg",
+          "thumb": "/images/galeria/encontro-de-mulheres/thumb-encontro-de-mulheres-12.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-13.jpg",
+          "thumb": "/images/galeria/encontro-de-mulheres/thumb-encontro-de-mulheres-13.jpg",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-14.jpg",
+          "thumb": "/images/galeria/encontro-de-mulheres/thumb-encontro-de-mulheres-14.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-15.jpg",
+          "thumb": "/images/galeria/encontro-de-mulheres/thumb-encontro-de-mulheres-15.jpg",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-16.jpg",
+          "thumb": "/images/galeria/encontro-de-mulheres/thumb-encontro-de-mulheres-16.jpg",
+          "width": 900,
+          "height": 1600
+        }
+      ],
+      "videos": [
+        {
+          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-video-01.mp4"
+        },
+        {
+          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-video-02.mp4"
+        }
+      ]
     },
     {
       "slug": "encontro-de-criancas",

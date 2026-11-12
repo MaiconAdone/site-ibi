@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { Camera, Images } from "lucide-react";
 import { churchInfo } from "@/lib/church-info";
-import { albums } from "@/lib/gallery";
+import { albums, getCover } from "@/lib/gallery";
 
 export const metadata: Metadata = {
   title: "Galeria",
@@ -39,7 +39,8 @@ export default function GaleriaPage() {
         ) : (
           <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {withPhotos.map((a) => {
-              const cover = a.photos[0];
+              const cover = getCover(a);
+              const portrait = (cover.height ?? 0) > (cover.width ?? 0);
               return (
                 <Link
                   key={a.slug}
@@ -52,7 +53,7 @@ export default function GaleriaPage() {
                       alt={a.title}
                       fill
                       sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
-                      className="object-cover transition duration-300 group-hover:scale-105"
+                      className={`object-cover transition duration-300 group-hover:scale-105 ${portrait ? "object-[center_25%]" : ""}`}
                     />
                     <span className="absolute bottom-3 right-3 flex items-center gap-1.5 rounded-full bg-black/60 px-3 py-1 text-xs font-medium text-white">
                       <Images className="h-3.5 w-3.5" />

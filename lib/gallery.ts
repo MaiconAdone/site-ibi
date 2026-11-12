@@ -22,6 +22,8 @@ export type GalleryAlbum = {
   title: string;
   description?: string;
   date?: string;
+  // Foto de capa (src de uma das fotos). Sem isso, usa a primeira.
+  cover?: string;
   photos: GalleryPhoto[];
   videos?: GalleryVideo[];
 };
@@ -30,4 +32,8 @@ export const albums: GalleryAlbum[] = (data as { albums?: GalleryAlbum[] }).albu
 
 export function getAlbum(slug: string): GalleryAlbum | undefined {
   return albums.find((a) => a.slug === slug);
+}
+
+export function getCover(album: GalleryAlbum): GalleryPhoto {
+  return album.photos.find((p) => p.src === album.cover) ?? album.photos[0];
 }

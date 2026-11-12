@@ -695,14 +695,6 @@
           "width": 900,
           "height": 1600
         }
-      ],
-      "videos": [
-        {
-          "src": "/images/galeria/batismo/batismo-video-01.mp4"
-        },
-        {
-          "src": "/images/galeria/batismo/batismo-video-02.mp4"
-        }
       ]
     },
     {
@@ -805,14 +797,6 @@
           "thumb": "/images/galeria/encontro-de-mulheres/thumb-encontro-de-mulheres-16.jpg",
           "width": 900,
           "height": 1600
-        }
-      ],
-      "videos": [
-        {
-          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-video-01.mp4"
-        },
-        {
-          "src": "/images/galeria/encontro-de-mulheres/encontro-de-mulheres-video-02.mp4"
         }
       ]
     },

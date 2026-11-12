@@ -318,8 +318,111 @@
     {
       "slug": "niver-esthefane",
       "title": "Niver Esthefane",
-      "description": "",
-      "photos": []
+      "description": "Celebração do aniversário de 24 anos da Esthefane.",
+      "photos": [
+        {
+          "src": "/images/galeria/niver-esthefane/niver-esthefane-01.jpg",
+          "thumb": "/images/galeria/niver-esthefane/thumb-niver-esthefane-01.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-esthefane/niver-esthefane-02.jpg",
+          "thumb": "/images/galeria/niver-esthefane/thumb-niver-esthefane-02.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-esthefane/niver-esthefane-03.jpg",
+          "thumb": "/images/galeria/niver-esthefane/thumb-niver-esthefane-03.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-esthefane/niver-esthefane-04.jpg",
+          "thumb": "/images/galeria/niver-esthefane/thumb-niver-esthefane-04.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-esthefane/niver-esthefane-05.jpg",
+          "thumb": "/images/galeria/niver-esthefane/thumb-niver-esthefane-05.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-esthefane/niver-esthefane-06.jpg",
+          "thumb": "/images/galeria/niver-esthefane/thumb-niver-esthefane-06.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-esthefane/niver-esthefane-07.jpg",
+          "thumb": "/images/galeria/niver-esthefane/thumb-niver-esthefane-07.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-esthefane/niver-esthefane-08.jpg",
+          "thumb": "/images/galeria/niver-esthefane/thumb-niver-esthefane-08.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-esthefane/niver-esthefane-09.jpg",
+          "thumb": "/images/galeria/niver-esthefane/thumb-niver-esthefane-09.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-esthefane/niver-esthefane-10.jpg",
+          "thumb": "/images/galeria/niver-esthefane/thumb-niver-esthefane-10.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-esthefane/niver-esthefane-11.jpg",
+          "thumb": "/images/galeria/niver-esthefane/thumb-niver-esthefane-11.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-esthefane/niver-esthefane-12.jpg",
+          "thumb": "/images/galeria/niver-esthefane/thumb-niver-esthefane-12.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-esthefane/niver-esthefane-13.jpg",
+          "thumb": "/images/galeria/niver-esthefane/thumb-niver-esthefane-13.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-esthefane/niver-esthefane-14.jpg",
+          "thumb": "/images/galeria/niver-esthefane/thumb-niver-esthefane-14.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-esthefane/niver-esthefane-15.jpg",
+          "thumb": "/images/galeria/niver-esthefane/thumb-niver-esthefane-15.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-esthefane/niver-esthefane-16.jpg",
+          "thumb": "/images/galeria/niver-esthefane/thumb-niver-esthefane-16.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-esthefane/niver-esthefane-17.jpg",
+          "thumb": "/images/galeria/niver-esthefane/thumb-niver-esthefane-17.jpg",
+          "width": 1600,
+          "height": 900
+        }
+      ]
     },
     {
       "slug": "niver-nilda",

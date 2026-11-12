@@ -585,8 +585,125 @@
     {
       "slug": "batismo",
       "title": "Batismo",
-      "description": "",
-      "photos": []
+      "description": "Culto de batismo: irmãos que declararam publicamente sua fé em Jesus Cristo, nas águas.",
+      "photos": [
+        {
+          "src": "/images/galeria/batismo/batismo-01.jpg",
+          "thumb": "/images/galeria/batismo/thumb-batismo-01.jpg",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "src": "/images/galeria/batismo/batismo-02.jpg",
+          "thumb": "/images/galeria/batismo/thumb-batismo-02.jpg",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "src": "/images/galeria/batismo/batismo-03.jpg",
+          "thumb": "/images/galeria/batismo/thumb-batismo-03.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/batismo/batismo-04.jpg",
+          "thumb": "/images/galeria/batismo/thumb-batismo-04.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/batismo/batismo-05.jpg",
+          "thumb": "/images/galeria/batismo/thumb-batismo-05.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/batismo/batismo-06.jpg",
+          "thumb": "/images/galeria/batismo/thumb-batismo-06.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/batismo/batismo-07.jpg",
+          "thumb": "/images/galeria/batismo/thumb-batismo-07.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/batismo/batismo-08.jpg",
+          "thumb": "/images/galeria/batismo/thumb-batismo-08.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/batismo/batismo-09.jpg",
+          "thumb": "/images/galeria/batismo/thumb-batismo-09.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/batismo/batismo-10.jpg",
+          "thumb": "/images/galeria/batismo/thumb-batismo-10.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/batismo/batismo-11.jpg",
+          "thumb": "/images/galeria/batismo/thumb-batismo-11.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/batismo/batismo-12.jpg",
+          "thumb": "/images/galeria/batismo/thumb-batismo-12.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/batismo/batismo-13.jpg",
+          "thumb": "/images/galeria/batismo/thumb-batismo-13.jpg",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "src": "/images/galeria/batismo/batismo-14.jpg",
+          "thumb": "/images/galeria/batismo/thumb-batismo-14.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/batismo/batismo-15.jpg",
+          "thumb": "/images/galeria/batismo/thumb-batismo-15.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/batismo/batismo-16.jpg",
+          "thumb": "/images/galeria/batismo/thumb-batismo-16.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/batismo/batismo-17.jpg",
+          "thumb": "/images/galeria/batismo/thumb-batismo-17.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/batismo/batismo-18.jpg",
+          "thumb": "/images/galeria/batismo/thumb-batismo-18.jpg",
+          "width": 900,
+          "height": 1600
+        }
+      ],
+      "videos": [
+        {
+          "src": "/images/galeria/batismo/batismo-video-01.mp4"
+        },
+        {
+          "src": "/images/galeria/batismo/batismo-video-02.mp4"
+        }
+      ]
     },
     {
       "slug": "encontro-de-mulheres",

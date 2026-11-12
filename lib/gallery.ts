@@ -11,12 +11,19 @@ export type GalleryPhoto = {
   caption?: string;
 };
 
+export type GalleryVideo = {
+  src: string;
+  poster?: string;
+  caption?: string;
+};
+
 export type GalleryAlbum = {
   slug: string;
   title: string;
   description?: string;
   date?: string;
   photos: GalleryPhoto[];
+  videos?: GalleryVideo[];
 };
 
 export const albums: GalleryAlbum[] = (data as { albums?: GalleryAlbum[] }).albums ?? [];

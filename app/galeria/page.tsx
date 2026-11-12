@@ -57,6 +57,9 @@ export default function GaleriaPage() {
                     <span className="absolute bottom-3 right-3 flex items-center gap-1.5 rounded-full bg-black/60 px-3 py-1 text-xs font-medium text-white">
                       <Images className="h-3.5 w-3.5" />
                       {a.photos.length} {a.photos.length === 1 ? "foto" : "fotos"}
+                      {a.videos?.length
+                        ? ` · ${a.videos.length} ${a.videos.length === 1 ? "vídeo" : "vídeos"}`
+                        : ""}
                     </span>
                   </div>
                   <div className="p-5">

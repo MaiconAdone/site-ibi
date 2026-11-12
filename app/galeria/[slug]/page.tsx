@@ -31,6 +31,7 @@ export default async function AlbumPage({ params }: { params: Promise<Params> })
   const { slug } = await params;
   const album = getAlbum(slug);
   if (!album || album.photos.length === 0) notFound();
+  const videos = album.videos ?? [];
 
   return (
     <>
@@ -53,11 +54,44 @@ export default async function AlbumPage({ params }: { params: Promise<Params> })
           ) : null}
           <p className="mt-3 text-sm text-muted-foreground">
             {album.photos.length} {album.photos.length === 1 ? "foto" : "fotos"}
+            {videos.length > 0
+              ? ` · ${videos.length} ${videos.length === 1 ? "vídeo" : "vídeos"}`
+              : ""}
           </p>
         </div>
       </section>
 
+      {videos.length > 0 ? (
+        <section className="container pt-10 md:pt-16">
+          <h2 className="font-serif text-2xl">Vídeos</h2>
+          <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {videos.map((v, i) => (
+              <figure
+                key={v.src}
+                className="overflow-hidden rounded-xl border border-border bg-black"
+              >
+                <video
+                  src={`${v.src}#t=0.1`}
+                  poster={v.poster}
+                  controls
+                  playsInline
+                  preload="metadata"
+                  className="aspect-[9/16] max-h-[70vh] w-full bg-black object-contain"
+                  aria-label={v.caption || `${album.title} — vídeo ${i + 1}`}
+                />
+                {v.caption ? (
+                  <figcaption className="bg-card p-3 text-sm text-muted-foreground">
+                    {v.caption}
+                  </figcaption>
+                ) : null}
+              </figure>
+            ))}
+          </div>
+        </section>
+      ) : null}
+
       <section className="container py-10 md:py-16">
+        {videos.length > 0 ? <h2 className="mb-5 font-serif text-2xl">Fotos</h2> : null}
         <PhotoGrid photos={album.photos} title={album.title} />
       </section>
     </>

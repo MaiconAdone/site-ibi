@@ -202,9 +202,118 @@
     },
     {
       "slug": "niver-sr-joao",
-      "title": "Niver Sr. João",
-      "description": "",
-      "photos": []
+      "title": "80 anos do Sr. João",
+      "description": "Celebração dos 80 anos do Sr. João, com festa no estilo anos 60.",
+      "photos": [
+        {
+          "src": "/images/galeria/niver-sr-joao/niver-sr-joao-01.jpg",
+          "thumb": "/images/galeria/niver-sr-joao/thumb-niver-sr-joao-01.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-sr-joao/niver-sr-joao-02.jpg",
+          "thumb": "/images/galeria/niver-sr-joao/thumb-niver-sr-joao-02.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-sr-joao/niver-sr-joao-03.jpg",
+          "thumb": "/images/galeria/niver-sr-joao/thumb-niver-sr-joao-03.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-sr-joao/niver-sr-joao-04.jpg",
+          "thumb": "/images/galeria/niver-sr-joao/thumb-niver-sr-joao-04.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-sr-joao/niver-sr-joao-05.jpg",
+          "thumb": "/images/galeria/niver-sr-joao/thumb-niver-sr-joao-05.jpg",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "src": "/images/galeria/niver-sr-joao/niver-sr-joao-06.jpg",
+          "thumb": "/images/galeria/niver-sr-joao/thumb-niver-sr-joao-06.jpg",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "src": "/images/galeria/niver-sr-joao/niver-sr-joao-07.jpg",
+          "thumb": "/images/galeria/niver-sr-joao/thumb-niver-sr-joao-07.jpg",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "src": "/images/galeria/niver-sr-joao/niver-sr-joao-08.jpg",
+          "thumb": "/images/galeria/niver-sr-joao/thumb-niver-sr-joao-08.jpg",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "src": "/images/galeria/niver-sr-joao/niver-sr-joao-09.jpg",
+          "thumb": "/images/galeria/niver-sr-joao/thumb-niver-sr-joao-09.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-sr-joao/niver-sr-joao-10.jpg",
+          "thumb": "/images/galeria/niver-sr-joao/thumb-niver-sr-joao-10.jpg",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "src": "/images/galeria/niver-sr-joao/niver-sr-joao-11.jpg",
+          "thumb": "/images/galeria/niver-sr-joao/thumb-niver-sr-joao-11.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-sr-joao/niver-sr-joao-12.jpg",
+          "thumb": "/images/galeria/niver-sr-joao/thumb-niver-sr-joao-12.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-sr-joao/niver-sr-joao-13.jpg",
+          "thumb": "/images/galeria/niver-sr-joao/thumb-niver-sr-joao-13.jpg",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "src": "/images/galeria/niver-sr-joao/niver-sr-joao-14.jpg",
+          "thumb": "/images/galeria/niver-sr-joao/thumb-niver-sr-joao-14.jpg",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "src": "/images/galeria/niver-sr-joao/niver-sr-joao-15.jpg",
+          "thumb": "/images/galeria/niver-sr-joao/thumb-niver-sr-joao-15.jpg",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "src": "/images/galeria/niver-sr-joao/niver-sr-joao-16.jpg",
+          "thumb": "/images/galeria/niver-sr-joao/thumb-niver-sr-joao-16.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-sr-joao/niver-sr-joao-17.jpg",
+          "thumb": "/images/galeria/niver-sr-joao/thumb-niver-sr-joao-17.jpg",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-sr-joao/niver-sr-joao-18.jpg",
+          "thumb": "/images/galeria/niver-sr-joao/thumb-niver-sr-joao-18.jpg",
+          "width": 1200,
+          "height": 1600
+        }
+      ]
     },
     {
       "slug": "niver-esthefane",

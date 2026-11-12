@@ -1,0 +1,27 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/3qfy96eoyh-ek.js"
+4:"/_next/static/chunks/2ozg-0yy5zdo-.js"
+5:"/_next/static/chunks/1emzpjz5zbof_.js"
+6:I[39756,["$3","$4","$5"],"default"]
+7:I[37457,["$3","$4","$5"],"default"]
+c:I[22016,["$3","$4","$5"],""]
+d:I[97367,["$3","$4","$5"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$3","$4","$5"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$3","$4","$5"],"$13"]
+9:X
+9:C
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","section",null,{"className":"container flex min-h-[60vh] flex-col items-center justify-center py-20 text-center","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-[0.18em] text-accent","children":"Erro 404"}],["$","h1",null,{"className":"mt-3 font-serif text-4xl md:text-5xl","children":"Página não encontrada."}],["$","p",null,{"className":"mt-4 max-w-md text-muted-foreground","children":"O endereço pode ter mudado ou não existe mais."}],["$","$Lc",null,{"href":"/","children":"Voltar ao início","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-accent text-accent-foreground hover:bg-accent/90 h-12 px-7 text-base mt-8","ref":null}]]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$a"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Igreja Batista Independente de Mauá — Mauá - SP"}],["$","meta","1",{"name":"description","content":"Uma igreja acolhedora em Mauá Domingo, às 19h00."}],["$","meta","2",{"property":"og:title","content":"Igreja Batista Independente de Mauá — Mauá - SP"}],["$","meta","3",{"property":"og:description","content":"Uma igreja acolhedora em Mauá Domingo, às 19h00."}],["$","meta","4",{"property":"og:locale","content":"pt_BR"}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"Igreja Batista Independente de Mauá — Mauá - SP"}],["$","meta","8",{"name":"twitter:description","content":"Uma igreja acolhedora em Mauá Domingo, às 19h00."}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$a"}},"a":"$@16","u":"$@17","b":"Prv8H8EHiyQlC3mN7VTbE"}
+f:null
+17:true
+a:300
+a:C
+16:0
+8:"$undefined"
+15:"$undefined"
+10:"$undefined"

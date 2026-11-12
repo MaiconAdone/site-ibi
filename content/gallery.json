@@ -536,8 +536,51 @@
     {
       "slug": "niver-dona-nena",
       "title": "Niver Dona Nena",
-      "description": "",
-      "photos": []
+      "description": "Celebração do aniversário da Dona Nena, com a família e os irmãos em clima caipira.",
+      "photos": [
+        {
+          "src": "/images/galeria/niver-dona-nena/niver-dona-nena-01.jpg",
+          "thumb": "/images/galeria/niver-dona-nena/thumb-niver-dona-nena-01.jpg",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "src": "/images/galeria/niver-dona-nena/niver-dona-nena-02.jpg",
+          "thumb": "/images/galeria/niver-dona-nena/thumb-niver-dona-nena-02.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-dona-nena/niver-dona-nena-03.jpg",
+          "thumb": "/images/galeria/niver-dona-nena/thumb-niver-dona-nena-03.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-dona-nena/niver-dona-nena-04.jpg",
+          "thumb": "/images/galeria/niver-dona-nena/thumb-niver-dona-nena-04.jpg",
+          "width": 900,
+          "height": 1600
+        },
+        {
+          "src": "/images/galeria/niver-dona-nena/niver-dona-nena-05.jpg",
+          "thumb": "/images/galeria/niver-dona-nena/thumb-niver-dona-nena-05.jpg",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "src": "/images/galeria/niver-dona-nena/niver-dona-nena-06.jpg",
+          "thumb": "/images/galeria/niver-dona-nena/thumb-niver-dona-nena-06.jpg",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "src": "/images/galeria/niver-dona-nena/niver-dona-nena-07.jpg",
+          "thumb": "/images/galeria/niver-dona-nena/thumb-niver-dona-nena-07.jpg",
+          "width": 1600,
+          "height": 900
+        }
+      ]
     },
     {
       "slug": "batismo",

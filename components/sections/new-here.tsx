@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import { ArrowUpRight } from "lucide-react";
+import { ArrowUpRight, Play } from "lucide-react";
 
 const cards = [
   {
@@ -15,7 +15,9 @@ const cards = [
     description:
       "Não vai poder ir neste domingo? Acompanhe os cultos e mensagens no nosso canal do YouTube.",
     href: "https://www.youtube.com/@IBIMau%C3%A114",
-    image: "/images/placeholders/watch.svg",
+    image: "/images/home/assista-online.jpg",
+    imageClass: "object-left",
+    play: true,
   },
   {
     title: "Fale com a gente",
@@ -60,8 +62,14 @@ export function NewHere() {
                 alt=""
                 fill
                 sizes="(min-width: 768px) 33vw, 100vw"
-                className="object-cover transition duration-500 group-hover:scale-105"
+                className={`object-cover transition duration-500 group-hover:scale-105 ${card.imageClass ?? ""}`}
               />
+              {card.play ? (
+                <span className="absolute bottom-3 right-3 flex items-center gap-1.5 rounded-full bg-[#FF0000] px-3 py-1.5 text-xs font-semibold text-white shadow-md">
+                  <Play className="h-3.5 w-3.5 fill-current" />
+                  YouTube
+                </span>
+              ) : null}
             </div>
             <div className="flex flex-1 flex-col p-6">
               <h3 className="flex items-center justify-between font-serif text-2xl">

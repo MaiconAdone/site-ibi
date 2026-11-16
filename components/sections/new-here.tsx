@@ -13,8 +13,8 @@ const cards = [
   {
     title: "Assista online",
     description:
-      "Não vai poder ir neste domingo? Assista à última mensagem e às nossas transmissões.",
-    href: "/watch",
+      "Não vai poder ir neste domingo? Acompanhe os cultos e mensagens no nosso canal do YouTube.",
+    href: "https://www.youtube.com/@IBIMau%C3%A114",
     image: "/images/placeholders/watch.svg",
   },
   {
@@ -49,6 +49,9 @@ export function NewHere() {
           <Link
             key={card.href}
             href={card.href}
+            {...(card.href.startsWith("http")
+              ? { target: "_blank", rel: "noopener noreferrer" }
+              : {})}
             className="group flex flex-col overflow-hidden rounded-lg border border-border bg-card transition hover:-translate-y-1 hover:shadow-lg"
           >
             <div className="relative aspect-video overflow-hidden sm:aspect-[4/3]">

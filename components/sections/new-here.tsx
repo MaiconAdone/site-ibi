@@ -8,7 +8,7 @@ const cards = [
     description:
       "Saiba o que esperar no culto — onde estacionar, como se vestir e para onde vão as crianças.",
     href: "/visit",
-    image: "/images/placeholders/plan-a-visit.svg",
+    image: "/images/home/planeje-sua-visita.jpg",
   },
   {
     title: "Assista online",
@@ -24,7 +24,7 @@ const cards = [
     description:
       "Quer conversar, pedir oração ou saber mais sobre a igreja? Estamos aqui para você.",
     href: "/connect/contact",
-    image: "/images/placeholders/contact.svg",
+    image: "/images/home/fale-com-a-gente.jpg",
   },
 ];
 

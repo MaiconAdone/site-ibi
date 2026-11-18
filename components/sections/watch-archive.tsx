@@ -161,9 +161,9 @@ export function WatchArchive({ sermons }: { sermons: Sermon[] }) {
                 </p>
                 <p
                   className="mt-3 line-clamp-2 text-sm text-muted-foreground"
-                  title={s.description}
+                  title={s.description.split(/\n\s*\n/)[0]}
                 >
-                  {s.description}
+                  {s.description.split(/\n\s*\n/)[0]}
                 </p>
 
                 <div className="mt-5 flex flex-wrap gap-2 border-t border-border pt-4">

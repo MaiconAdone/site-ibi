@@ -122,10 +122,19 @@ export default async function SermonPage({
         </div>
 
         {sermon.description ? (
-          <div className="mt-10 max-w-3xl">
-            <p className="text-lg leading-relaxed text-foreground/90">
-              {sermon.description}
-            </p>
+          <div className="mt-10 max-w-3xl space-y-4">
+            {sermon.description.split(/\n\s*\n/).map((para, i) => (
+              <p
+                key={i}
+                className={
+                  para.startsWith("Textos de apoio:")
+                    ? "text-sm text-muted-foreground"
+                    : "text-lg leading-relaxed text-foreground/90"
+                }
+              >
+                {para}
+              </p>
+            ))}
           </div>
         ) : null}
 

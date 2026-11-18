@@ -71,7 +71,7 @@ export function LatestSermon() {
                 {formatDate(latestSermon.date)} · {latestSermon.speaker}
               </p>
               <p className="mt-4 text-foreground/80">
-                {latestSermon.description}
+                {latestSermon.description.split(/\n\s*\n/)[0]}
               </p>
             </div>
             <Button asChild>
